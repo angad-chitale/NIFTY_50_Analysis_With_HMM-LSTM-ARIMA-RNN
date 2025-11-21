@@ -1,2 +1,1 @@
-• Built a financial forecasting system for the NIFTY 50 stock index using 20+ years of data, comparing 4 models (HMM, LSTM, ARIMA, RNN), with HMM achieving 10% higher accuracy.
-• Assessed model performances using error metrics like APE, AAE, ARPE, and RMSE, with HMM capturing long-term trends 10% more accurately.
+• Built a financial forecasting system for the NIFTY 50 stock index using 20+ years of data, comparing 4 models (HMM, LSTM, ARIMA, RNN), with HMM achieving 10% higher accuracy. • Assessed model performances using error metrics like APE, AAE, ARPE, and RMSE, with HMM capturing long-term trends 10% more accurately.
